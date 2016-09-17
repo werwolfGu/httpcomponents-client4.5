@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fluent-hc/fluent-hc.iml" filepath="$PROJECT_DIR$/fluent-hc/fluent-hc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient/httpclient.iml" filepath="$PROJECT_DIR$/httpclient/httpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-cache/httpclient-cache.iml" filepath="$PROJECT_DIR$/httpclient-cache/httpclient-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-osgi/httpclient-osgi.iml" filepath="$PROJECT_DIR$/httpclient-osgi/httpclient-osgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-win/httpclient-win.iml" filepath="$PROJECT_DIR$/httpclient-win/httpclient-win.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpcomponents-client.iml" filepath="$PROJECT_DIR$/httpcomponents-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpmime/httpmime.iml" filepath="$PROJECT_DIR$/httpmime/httpmime.iml" />
+    </modules>
+  </component>
+</project>
